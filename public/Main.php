@@ -9,7 +9,7 @@ mysqli_select_db($con, "wildlifeDB");
 ?>
 
     <html>
-    <!-- Developed by David Speroni, on my honor. -->
+    <!-- Developed by Shanika Wijegunawardena, on my honor. -->
     <head>
         <meta charset="utf-8">
         <title>Contractor System by David Speroni</title>

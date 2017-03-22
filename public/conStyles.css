@@ -1,0 +1,27 @@
+h2 {
+color: coral;
+}
+
+body{
+    
+margin: 0 auto; 
+width: 50%;
+background-color: floralwhite ;
+}
+
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+    width = 20%;
+    height = 20%;
+}
+
+input[type=text] {
+    width: 20eem;
+    height:1.5em;
+    margin: 8px 0;
+    box-sizing: border-box;
+}

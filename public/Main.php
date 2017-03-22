@@ -12,7 +12,7 @@ mysqli_select_db($con, "wildlifeDB");
     <!-- Developed by Jennifer Mandel, on my honor. -->
     <head>
         <meta charset="utf-8">
-        <title>Contractor System by Jennifer Mandel</title>
+        <title>Contractor System by Jennifer Mandel2</title>
         <meta name="description" content="">
         <link rel="stylesheet" href="conStyles.css">
         <h1>Contractor System by David Speroni</h1>
